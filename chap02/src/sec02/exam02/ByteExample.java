@@ -3,7 +3,6 @@ package sec02.exam02;
 public class ByteExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte var1 = -128;
 		byte var2 = -30;
 		byte var3 = 0;
