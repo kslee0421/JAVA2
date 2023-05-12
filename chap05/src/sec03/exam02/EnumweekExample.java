@@ -1,5 +1,7 @@
 package sec03.exam02;
 
+import java.util.Calendar;
+
 public class EnumweekExample {
 
 	public static void main(String[] args) {
